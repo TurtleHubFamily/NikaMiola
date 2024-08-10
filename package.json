@@ -1,0 +1,29 @@
+{
+  "name": "nikabot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zijipia/Ziji-bot-discord.git"
+  },
+  "keywords": [
+    "nika",
+    "nika",
+    "bot",
+    "discord"
+  ],
+  "author": "nika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zijipia/Ziji-bot-discord/issues"
+  },
+  "homepage": "https://github.com/zijipia/Ziji-bot-discord#readme",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "nikabot": "file:"
+  }
+}
